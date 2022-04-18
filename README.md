@@ -1,5 +1,7 @@
 # platzi-curso-practico-javascript
-##Solucionado
+
+## Solucionado
+
 
 ...
 
